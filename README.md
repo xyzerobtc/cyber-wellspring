@@ -1,2 +1,2 @@
 # cyber-wellspring
-Information and cyber security enterprise manager
+Information and cyber security enterprise risk management
